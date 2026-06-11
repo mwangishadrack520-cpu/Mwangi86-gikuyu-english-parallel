@@ -1,0 +1,100 @@
+{"id": 1, "english": "Good morning, how did you sleep?", "gikuyu": "Wîmwega ruciinî. Uraire atîa?", "domain": "Greetings & Social", "notes": ""}
+{"id": 2, "english": "Where are you going this afternoon?", "gikuyu": "Ûrathiî kû mîaraho ya ûmûthî?", "domain": "Greetings & Social", "notes": ""}
+{"id": 3, "english": "Please greet your family from me.", "gikuyu": "Ngeithîria andû aku", "domain": "Greetings & Social", "notes": ""}
+{"id": 4, "english": "I have not seen you in a long time.", "gikuyu": "Ndikuonete kahinda karaihu", "domain": "Greetings & Social", "notes": ""}
+{"id": 5, "english": "Thank you for coming to visit us today.", "gikuyu": "Ngatho nî gûûka gûtucerera", "domain": "Greetings & Social", "notes": "Alt: Ngatho nî ûndû wa gûûka gûtûcerera"}
+{"id": 6, "english": "How are your children doing in school?", "gikuyu": "Twana twaku no tûrathoma wega cukuru?", "domain": "Greetings & Social", "notes": ""}
+{"id": 7, "english": "We will meet again tomorrow at the market.", "gikuyu": "Nîtûkonana rîngî rûcio ndûnyû-ini.", "domain": "Greetings & Social", "notes": ""}
+{"id": 8, "english": "You look well today, what is your secret?", "gikuyu": "Ûmûthî ûhana wega, thiri nî kîî?", "domain": "Greetings & Social", "notes": "Alt ending: îrîkû"}
+{"id": 9, "english": "It has been a busy week for everyone here.", "gikuyu": "Gîkoretwo gî kiumia kîa mîhang'o mûno harî ithuî ithuothe haha.", "domain": "Greetings & Social", "notes": ""}
+{"id": 10, "english": "Please sit down and make yourself comfortable.", "gikuyu": "Ikara thî na ûigue ûiganîire.", "domain": "Greetings & Social", "notes": ""}
+{"id": 11, "english": "The rains came early this year and the crops are good.", "gikuyu": "Mbura nî îraurire tene mwaka ûyû na irio/mîmera nî îrakûra wega", "domain": "Agriculture & Food", "notes": ""}
+{"id": 12, "english": "We will harvest the maize next week if it does not rain.", "gikuyu": "Nîtûkagetha mbembe kiumia gîûkîte kwaga kuura.", "domain": "Agriculture & Food", "notes": ""}
+{"id": 13, "english": "The soil in this valley is very fertile.", "gikuyu": "Tîîri wa mûkuru ûyû nî mûnoru mûno", "domain": "Agriculture & Food", "notes": ""}
+{"id": 14, "english": "My mother is cooking beans and sweet potatoes for dinner.", "gikuyu": "Maitû/mami araruga mboco na ngaci hwaini", "domain": "Agriculture & Food", "notes": "Alt: maitû"}
+{"id": 15, "english": "The goats escaped from the fence last night.", "gikuyu": "Mbûri ciragerire rûgiri-ini ûtukû", "domain": "Agriculture & Food", "notes": ""}
+{"id": 16, "english": "We need to plant more vegetables near the river.", "gikuyu": "Nî twagîrîire tûhande nyeni hakuhî na rûûî", "domain": "Agriculture & Food", "notes": ""}
+{"id": 17, "english": "The market opens very early in the morning on Saturdays.", "gikuyu": "Thoko îhingûragwo tene mûno mûthenya wa juma", "domain": "Agriculture & Food", "notes": ""}
+{"id": 18, "english": "How much does a kilo of tomatoes cost today?", "gikuyu": "Kilo îmwe ya nyanya îrendio mbeca ciigana ûmûthî?", "domain": "Agriculture & Food", "notes": "Alt forms: îrauma atîa / îrendio atîa"}
+{"id": 19, "english": "The tea leaves are ready to be picked this morning.", "gikuyu": "Macani nomatuuo rûûcini rûrû", "domain": "Agriculture & Food", "notes": ""}
+{"id": 20, "english": "We keep cows, chickens, and a few sheep on our farm.", "gikuyu": "Twî na ng'ombe, ngûkû na ng'ondu mûgûnda-inî witû.", "domain": "Agriculture & Food", "notes": ""}
+{"id": 21, "english": "Take this medicine twice a day after eating.", "gikuyu": "Ûnyuage dawa îno maita meerî omûthenya warîa irio", "domain": "Health & Medicine", "notes": ""}
+{"id": 22, "english": "The child has had a fever for three days now.", "gikuyu": "Mwana akoretwo na ûrugarî thikû ithatu rîu", "domain": "Health & Medicine", "notes": ""}
+{"id": 23, "english": "You should drink plenty of clean water every day.", "gikuyu": "O mûthenya ûkanyua maaî maingî matheru", "domain": "Health & Medicine", "notes": ""}
+{"id": 24, "english": "This tablet should not be given to pregnant women.", "gikuyu": "Dawa îno ndîkanyuuo nî mûtumia mûritû", "domain": "Health & Medicine", "notes": "Alt: mûtumia wî na ihu"}
+{"id": 25, "english": "The nurse will take your blood pressure before the doctor sees you.", "gikuyu": "", "domain": "Health & Medicine", "notes": "left blank intentionally"}
+{"id": 26, "english": "Wash your hands with soap before and after meals.", "gikuyu": "Wîthambage momo na thabuni ûtanarîa na warîkia kûrîa", "domain": "Health & Medicine", "notes": ""}
+{"id": 27, "english": "Are you allergic to any medicines that you know of?", "gikuyu": "Nî harî dawa îgûthûkagîra?", "domain": "Health & Medicine", "notes": ""}
+{"id": 28, "english": "Malaria is spread through the bites of infected mosquitoes.", "gikuyu": "Malaria marehagwo ni kûrûmwo ni rwagî", "domain": "Health & Medicine", "notes": ""}
+{"id": 29, "english": "Bring the patient back to the clinic if the symptoms get worse.", "gikuyu": "Ûcokie mûrûarû dariri cia thiî na mbere", "domain": "Health & Medicine", "notes": ""}
+{"id": 30, "english": "Immunization protects children from dangerous diseases.", "gikuyu": "Njanjo nîigiragîrîria ciana kumana na mîrimû ya ûgwati", "domain": "Health & Medicine", "notes": ""}
+{"id": 31, "english": "The hospital charges a small fee for outpatient consultations.", "gikuyu": "Thibitarî ni îrîhagia marîhi manini ma kuona ndagîtarî", "domain": "Health & Medicine", "notes": ""}
+{"id": 32, "english": "She has been feeling chest pain and shortness of breath.", "gikuyu": "Akoretwo akîigua ruo gîthûri na kwaga mîrukî", "domain": "Health & Medicine", "notes": ""}
+{"id": 33, "english": "The teacher wrote the lesson on the blackboard.", "gikuyu": "Mwarimû aandîkire ithoma rûthingo-ini rûirû", "domain": "Education", "notes": ""}
+{"id": 34, "english": "Students must bring their exercise books every Monday.", "gikuyu": "Arutwo no mûhaka marehe mabuku mao ma kwandîkîra oo mûthenya wa jumatatû", "domain": "Education", "notes": "Alt: mwambîrîrio"}
+{"id": 35, "english": "The school fees for this term are due next week.", "gikuyu": "Marîhi ma cukuru ma ihinda rîrî marîhwo gûgîkinyîria kiumia gîukîte", "domain": "Education", "notes": ""}
+{"id": 36, "english": "Reading every day helps you to improve your vocabulary.", "gikuyu": "Gûthoma o mûthenya nîgûteithagia kwagîria rûthiomi rwaku", "domain": "Education", "notes": ""}
+{"id": 37, "english": "The national exams will be held in November this year.", "gikuyu": "Igeranio cia bûrûri cigatabanio mweri inî wa ikûmi na ûmwe mwaka ini ûyû", "domain": "Education", "notes": ""}
+{"id": 38, "english": "She passed all her subjects with very high marks.", "gikuyu": "Ahîtûkire igeranio ciake ciothe na gíkîro kîa igûrû mûno", "domain": "Education", "notes": "No specific Gikuyu word for 'subject'"}
+{"id": 39, "english": "The school library has many books on science and history.", "gikuyu": "Nyûmba ya mabuku ya cukuru îrî na mabuku maingi ma thayathi/cayanci na maûndû ma tene", "domain": "Education", "notes": ""}
+{"id": 40, "english": "Parents are encouraged to attend the school meeting on Friday.", "gikuyu": "Aciari nîmarorio magoka mucemanio wa cukuru mûthenya wa gatano", "domain": "Education", "notes": ""}
+{"id": 41, "english": "He wants to study engineering at the university.", "gikuyu": "Arenda gûthomera injinia cukuru-ini wa yunivasîtî", "domain": "Education", "notes": ""}
+{"id": 42, "english": "Learning your mother tongue keeps culture alive.", "gikuyu": "Gûthoma rûthiomi rwa maitû nîgûtûûragia ûndûire", "domain": "Education", "notes": ""}
+{"id": 43, "english": "My grandmother still remembers all the old stories.", "gikuyu": "Cûcû witû noaririkanaga ng'ano cia tene", "domain": "Family & Relationships", "notes": "Alt: tûrûgano twa tene"}
+{"id": 44, "english": "The eldest son is responsible for his younger siblings.", "gikuyu": "Kahîî karîa gakûrû nîko kamenyagîrîra twana tûria twao tûnini", "domain": "Family & Relationships", "notes": "Alt form for older contexts: kîhîî kîrîa gîkûrû"}
+{"id": 45, "english": "We are gathering the whole family for Christmas this year.", "gikuyu": "Andû othe a mûciî nîtûracemania thigûkû ya kirithimathi mwaka ûyû", "domain": "Family & Relationships", "notes": "Alt: Bamîrî yothe"}
+{"id": 46, "english": "My uncle lives in Nairobi and visits us during holidays.", "gikuyu": "Mama witû aikaraga Nairobi na nîokaga gûtûcerera hîndî ya thigûkûû", "domain": "Family & Relationships", "notes": ""}
+{"id": 47, "english": "She got married last year and now has a beautiful baby.", "gikuyu": "Ahikire mwaka ûcio ûrathirire na rîu ena kaana gathaka", "domain": "Family & Relationships", "notes": ""}
+{"id": 48, "english": "Children should respect their elders in all circumstances.", "gikuyu": "Ciana ciathîkagîre akûrû aao hîndî ciothe", "domain": "Family & Relationships", "notes": "Alt: mahinda mothe"}
+{"id": 49, "english": "His father passed away when he was still very young.", "gikuyu": "Baba wao agîkua kaarî kamwana kanini muno", "domain": "Family & Relationships", "notes": "Alt: baba wao akuire ge kamwana kanini muno"}
+{"id": 50, "english": "Our clan has lived on this land for many generations.", "gikuyu": "Mûhîrîga wiitu ûikarîte mûgûnda ini ûyû njiarwa nyingî mûno", "domain": "Family & Relationships", "notes": ""}
+{"id": 51, "english": "The bride price was agreed upon by both families.", "gikuyu": "Rûracio nîrûretîkanîirio nî nyûmba/bamîrî cierî", "domain": "Family & Relationships", "notes": ""}
+{"id": 52, "english": "We name our children after our grandparents as a tradition.", "gikuyu": "Twitaga ciana ciitû marîtwa ma maithe maitû o ta mûtugo", "domain": "Family & Relationships", "notes": ""}
+{"id": 53, "english": "Send me the document on WhatsApp when you are done.", "gikuyu": "Ndûmîra iratathi rîu kûgerera WhatsApp warîkia.", "domain": "Technology & Digital", "notes": "Note: no direct Gikuyu word for 'document'; iratathi used"}
+{"id": 54, "english": "My phone battery is dead and I need a charger.", "gikuyu": "Ihiga rîa thimû yakwa nîrîathira mwaki na nîngwenda chanja", "domain": "Technology & Digital", "notes": "Alt: canja"}
+{"id": 55, "english": "I will call you back when I get network signal.", "gikuyu": "Nîngûkûhûrîra ndakinya handû he na netiwaki", "domain": "Technology & Digital", "notes": ""}
+{"id": 56, "english": "You can pay using your mobile money account.", "gikuyu": "No ûrîhe ûkîhûthîra thimû/akauti ya thimû", "domain": "Technology & Digital", "notes": ""}
+{"id": 57, "english": "The internet connection in this area is very poor.", "gikuyu": "Hinya wa mutambo wa intaneti wî thî mûno gûkû", "domain": "Technology & Digital", "notes": ""}
+{"id": 58, "english": "Please enter your PIN number to confirm the transaction.", "gikuyu": "Hihinya amba yaku ya thiri wîtîkîrie marîhi", "domain": "Technology & Digital", "notes": ""}
+{"id": 59, "english": "The television news starts at seven o'clock every evening.", "gikuyu": "Mohoro ma televisheni manjagîrîria thaa îmwe cia o hwainî", "domain": "Technology & Digital", "notes": "Alt: tv"}
+{"id": 60, "english": "She learned how to use a computer at the youth centre.", "gikuyu": "Erutîire kûhûthîra mûtambo wa kompiuta harîa kambî-inî ya mbeû njîthî", "domain": "Technology & Digital", "notes": ""}
+{"id": 61, "english": "Save your work regularly so you do not lose it.", "gikuyu": "Hingagîra wîra waku maita maingî niguo ndûkoore", "domain": "Technology & Digital", "notes": ""}
+{"id": 62, "english": "Download the application on your phone to access the service.", "gikuyu": "Îkîra ihûthîro rîu thimûini yaku nîgetha waamûkîre ûtungata", "domain": "Technology & Digital", "notes": ""}
+{"id": 63, "english": "Every citizen has the right to vote in a free election.", "gikuyu": "Mûikari o wothe ena rûtha rwa gûikia kura yake gîghuranoiini kîîna waaraganu", "domain": "Government & Civic", "notes": ""}
+{"id": 64, "english": "The county government is building a new health centre in our ward.", "gikuyu": "Thirikari ya matûûra nî îraka thibitarî njerû itûûra-ini riitû", "domain": "Government & Civic", "notes": ""}
+{"id": 65, "english": "You need a national identity card to access most government services.", "gikuyu": "Ûbatiî gûkorwo na gîbandî nîguo waamûkîre maûtungata ma thirikari", "domain": "Government & Civic", "notes": "Alt: kîbandî"}
+{"id": 66, "english": "Report any corruption to the relevant authorities immediately.", "gikuyu": "Thitanga gîîko o gîothe kîa ungumania kûrîa cibatiî", "domain": "Government & Civic", "notes": ""}
+{"id": 67, "english": "The law protects all citizens equally regardless of background.", "gikuyu": "Watho ûgitagîra aikari othe ûtegûthurania kûrîa mûndû aumîte", "domain": "Government & Civic", "notes": ""}
+{"id": 68, "english": "Register your business to operate legally in this country.", "gikuyu": "Andîkithia biacara yaku nigetha ûhote kûmîtwara na mbere ûtekuna watho wa bûrûri", "domain": "Government & Civic", "notes": ""}
+{"id": 69, "english": "Public water and electricity are managed by the government.", "gikuyu": "Maai na thitima cia mûingi ciroragwo ni thirikari", "domain": "Government & Civic", "notes": ""}
+{"id": 70, "english": "The budget for this financial year has been approved by parliament.", "gikuyu": "Mbajeti ya mwaka ûyû nîyahîtûkio ni nyûmba ya icirîro/mbunge", "domain": "Government & Civic", "notes": ""}
+{"id": 71, "english": "Mount Kenya is the highest mountain in Kenya.", "gikuyu": "Kîrîma gîa Kenya nîkîo kînene/kîraihu mûno thîinî wa Kenya", "domain": "Environment & Nature", "notes": ""}
+{"id": 72, "english": "We must protect the forests to preserve our water sources.", "gikuyu": "Nomûhaka tûmenyerere mîtitû iitû nîguo tûgitîre njûûî ciitû", "domain": "Environment & Nature", "notes": ""}
+{"id": 73, "english": "The dry season has been very long and the rivers are low.", "gikuyu": "Kîmera kîa riûa nî gîikarîte mûno na njûûî cikahûa", "domain": "Environment & Nature", "notes": ""}
+{"id": 74, "english": "Cutting down trees causes flooding during the rainy season.", "gikuyu": "Gûtema mîtî nîgûtûmaga kûgîe na mwaraho wa kîguû hîndî ya mbura", "domain": "Environment & Nature", "notes": ""}
+{"id": 75, "english": "The birds sing loudest just before sunrise in the morning.", "gikuyu": "Nyoni ciinaga cianîrîire riûa rîtanaratha rûciinî", "domain": "Environment & Nature", "notes": ""}
+{"id": 76, "english": "We collect rainwater in tanks for use during dry periods.", "gikuyu": "Tûigaga maaî ma mbura matangi-inî nîguo tûmahûthîre hîndî ya riûa", "domain": "Environment & Nature", "notes": ""}
+{"id": 77, "english": "The fig tree is considered sacred by our community.", "gikuyu": "Mûtî wa mûgumo nî mûtherû rûrîrî-inî ruitû", "domain": "Environment & Nature", "notes": "Alt: muthingu"}
+{"id": 78, "english": "Climate change is making rainfall patterns unpredictable.", "gikuyu": "Gûcenjia kwa rîera nîgûtûmîte mbura yaage kwîhokeka", "domain": "Environment & Nature", "notes": ""}
+{"id": 79, "english": "I am very happy because my results were excellent.", "gikuyu": "Ndî na gîkeno mûno tondû maûmîrîra makwa nî meega", "domain": "Emotions & Mental States", "notes": ""}
+{"id": 80, "english": "She felt very sad when she heard the news.", "gikuyu": "Nîagîire ihooru aigua ûhoro ûcio", "domain": "Emotions & Mental States", "notes": ""}
+{"id": 81, "english": "Do not be afraid, everything will be alright.", "gikuyu": "Ndûgetigîre, maûndû nîmekwagîra", "domain": "Emotions & Mental States", "notes": ""}
+{"id": 82, "english": "He was very angry when he found out what happened.", "gikuyu": "Nîarakarire mûno aigua ûrîa kwahanîkire", "domain": "Emotions & Mental States", "notes": ""}
+{"id": 83, "english": "I feel proud of what my children have achieved.", "gikuyu": "Nîndîretîîra ciana ciakwa nîûndû wa marîa ciîhotanîire", "domain": "Emotions & Mental States", "notes": ""}
+{"id": 84, "english": "She has been feeling lonely since she moved to the city.", "gikuyu": "Nîakoretwo na ihooru kuuma athamîre mûciî mûnene", "domain": "Emotions & Mental States", "notes": ""}
+{"id": 85, "english": "We were surprised by how quickly the situation changed.", "gikuyu": "Nîtûragegirio nî ûrîa maûndû macenjetie", "domain": "Emotions & Mental States", "notes": ""}
+{"id": 86, "english": "He is anxious about the test results coming out tomorrow.", "gikuyu": "Ena wagagu nîûndû wa maumîrîra marîa matanyîîtwo rûciû", "domain": "Emotions & Mental States", "notes": ""}
+{"id": 87, "english": "If it rains tonight, we will not go to the market tomorrow.", "gikuyu": "Mbura yaura ûmûthî ûtukû, tûtigathiî ndûnyû rûciû", "domain": "Complex Syntax & Questions", "notes": "Alt: kwaura"}
+{"id": 88, "english": "Why did you not tell me about this problem earlier?", "gikuyu": "Waregete kûnjîra ûhoro wa thîna ûcio tene nîkî?", "domain": "Complex Syntax & Questions", "notes": ""}
+{"id": 89, "english": "When will the bus from Nairobi arrive at the stage?", "gikuyu": "Mbathibya kuuma Nairobi îgûkinya thitînji thaa cigana?", "domain": "Complex Syntax & Questions", "notes": ""}
+{"id": 90, "english": "Although she was tired, she still finished all her work.", "gikuyu": "Ona gûkorwo ararî mûnogu, nîararîkirie wîra wake wothe", "domain": "Complex Syntax & Questions", "notes": ""}
+{"id": 91, "english": "Which house did you grow up in as a child?", "gikuyu": "Wakûrîire kû ûnyinyi-inî waku?", "domain": "Complex Syntax & Questions", "notes": ""}
+{"id": 92, "english": "Tell me what you need and I will try to help you.", "gikuyu": "Njîra kîrîa ûrabatara nîngûgûteithia", "domain": "Complex Syntax & Questions", "notes": ""}
+{"id": 93, "english": "He said that he would come but he never arrived.", "gikuyu": "Augire nîegûka no ndakinyire", "domain": "Complex Syntax & Questions", "notes": ""}
+{"id": 94, "english": "I do not understand why this problem keeps happening.", "gikuyu": "Ndiramenya nîkî gîtûmaga thîna ûyû ûgecokera", "domain": "Complex Syntax & Questions", "notes": "Alt: ûgacokacoka"}
+{"id": 95, "english": "Before you leave, make sure you have everything you need.", "gikuyu": "Ûtanauma haha rora kana wîna kîrîa gîothe ûbataire", "domain": "Complex Syntax & Questions", "notes": ""}
+{"id": 96, "english": "How long have you been waiting here for the doctor?", "gikuyu": "Wetereire ndagîtarî haha kahinda kaigana atîa?", "domain": "Complex Syntax & Questions", "notes": ""}
+{"id": 97, "english": "Neither the mother nor the father was at home that day.", "gikuyu": "Nyina kana ithe matiarî mûciî mûthenya ûcio.", "domain": "Complex Syntax & Questions", "notes": "Alt: Nyina na ithe gûtirî mûndû warî mûciî mûthenya ûcio."}
+{"id": 98, "english": "Who is the person responsible for managing this project?", "gikuyu": "Nûû ûranyabara wîra ûyû?", "domain": "Complex Syntax & Questions", "notes": "Note: no specific Gikuyu word for 'project'; alt: nûû ûrûgamîrîire"}
+{"id": 99, "english": "Even though it was difficult, she refused to give up.", "gikuyu": "Ona gûkorwo nî hararî haritû, nîararegire gûkua ngoro", "domain": "Complex Syntax & Questions", "notes": "Alt: ndanakua ngoro"}
+{"id": 100, "english": "I wish I had known about this opportunity much earlier.", "gikuyu": "Narî korwo nîndîroî kaanya gaka hau gatene.", "domain": "Complex Syntax & Questions", "notes": "Alt: nîndîramenyete"}
