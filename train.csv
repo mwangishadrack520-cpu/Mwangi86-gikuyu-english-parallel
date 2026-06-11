@@ -1,0 +1,101 @@
+id,english,gikuyu,domain,notes
+1,"Good morning, how did you sleep?",Wîmwega ruciinî. Uraire atîa?,Greetings & Social,
+2,Where are you going this afternoon?,Ûrathiî kû mîaraho ya ûmûthî?,Greetings & Social,
+3,Please greet your family from me.,Ngeithîria andû aku,Greetings & Social,
+4,I have not seen you in a long time.,Ndikuonete kahinda karaihu,Greetings & Social,
+5,Thank you for coming to visit us today.,Ngatho nî gûûka gûtucerera,Greetings & Social,Alt: Ngatho nî ûndû wa gûûka gûtûcerera
+6,How are your children doing in school?,Twana twaku no tûrathoma wega cukuru?,Greetings & Social,
+7,We will meet again tomorrow at the market.,Nîtûkonana rîngî rûcio ndûnyû-ini.,Greetings & Social,
+8,"You look well today, what is your secret?","Ûmûthî ûhana wega, thiri nî kîî?",Greetings & Social,Alt ending: îrîkû
+9,It has been a busy week for everyone here.,Gîkoretwo gî kiumia kîa mîhang'o mûno harî ithuî ithuothe haha.,Greetings & Social,
+10,Please sit down and make yourself comfortable.,Ikara thî na ûigue ûiganîire.,Greetings & Social,
+11,The rains came early this year and the crops are good.,Mbura nî îraurire tene mwaka ûyû na irio/mîmera nî îrakûra wega,Agriculture & Food,
+12,We will harvest the maize next week if it does not rain.,Nîtûkagetha mbembe kiumia gîûkîte kwaga kuura.,Agriculture & Food,
+13,The soil in this valley is very fertile.,Tîîri wa mûkuru ûyû nî mûnoru mûno,Agriculture & Food,
+14,My mother is cooking beans and sweet potatoes for dinner.,Maitû/mami araruga mboco na ngaci hwaini,Agriculture & Food,Alt: maitû
+15,The goats escaped from the fence last night.,Mbûri ciragerire rûgiri-ini ûtukû,Agriculture & Food,
+16,We need to plant more vegetables near the river.,Nî twagîrîire tûhande nyeni hakuhî na rûûî,Agriculture & Food,
+17,The market opens very early in the morning on Saturdays.,Thoko îhingûragwo tene mûno mûthenya wa juma,Agriculture & Food,
+18,How much does a kilo of tomatoes cost today?,Kilo îmwe ya nyanya îrendio mbeca ciigana ûmûthî?,Agriculture & Food,Alt forms: îrauma atîa / îrendio atîa
+19,The tea leaves are ready to be picked this morning.,Macani nomatuuo rûûcini rûrû,Agriculture & Food,
+20,"We keep cows, chickens, and a few sheep on our farm.","Twî na ng'ombe, ngûkû na ng'ondu mûgûnda-inî witû.",Agriculture & Food,
+21,Take this medicine twice a day after eating.,Ûnyuage dawa îno maita meerî omûthenya warîa irio,Health & Medicine,
+22,The child has had a fever for three days now.,Mwana akoretwo na ûrugarî thikû ithatu rîu,Health & Medicine,
+23,You should drink plenty of clean water every day.,O mûthenya ûkanyua maaî maingî matheru,Health & Medicine,
+24,This tablet should not be given to pregnant women.,Dawa îno ndîkanyuuo nî mûtumia mûritû,Health & Medicine,Alt: mûtumia wî na ihu
+25,The nurse will take your blood pressure before the doctor sees you.,,Health & Medicine,Sentence left blank by translator
+26,Wash your hands with soap before and after meals.,Wîthambage momo na thabuni ûtanarîa na warîkia kûrîa,Health & Medicine,
+27,Are you allergic to any medicines that you know of?,Nî harî dawa îgûthûkagîra?,Health & Medicine,
+28,Malaria is spread through the bites of infected mosquitoes.,Malaria marehagwo ni kûrûmwo ni rwagî,Health & Medicine,
+29,Bring the patient back to the clinic if the symptoms get worse.,Ûcokie mûrûarû dariri cia thiî na mbere,Health & Medicine,
+30,Immunization protects children from dangerous diseases.,Njanjo nîigiragîrîria ciana kumana na mîrimû ya ûgwati,Health & Medicine,
+31,The hospital charges a small fee for outpatient consultations.,Thibitarî ni îrîhagia marîhi manini ma kuona ndagîtarî,Health & Medicine,
+32,She has been feeling chest pain and shortness of breath.,Akoretwo akîigua ruo gîthûri na kwaga mîrukî,Health & Medicine,
+33,The teacher wrote the lesson on the blackboard.,Mwarimû aandîkire ithoma rûthingo-ini rûirû,Education,
+34,Students must bring their exercise books every Monday.,Arutwo no mûhaka marehe mabuku mao ma kwandîkîra oo mûthenya wa jumatatû,Education,Alt: mwambîrîrio
+35,The school fees for this term are due next week.,Marîhi ma cukuru ma ihinda rîrî marîhwo gûgîkinyîria kiumia gîukîte,Education,
+36,Reading every day helps you to improve your vocabulary.,Gûthoma o mûthenya nîgûteithagia kwagîria rûthiomi rwaku,Education,
+37,The national exams will be held in November this year.,Igeranio cia bûrûri cigatabanio mweri inî wa ikûmi na ûmwe mwaka ini ûyû,Education,
+38,She passed all her subjects with very high marks.,Ahîtûkire igeranio ciake ciothe na gíkîro kîa igûrû mûno,Education,No specific Gikuyu word for 'subject'
+39,The school library has many books on science and history.,Nyûmba ya mabuku ya cukuru îrî na mabuku maingi ma thayathi/cayanci na maûndû ma tene,Education,
+40,Parents are encouraged to attend the school meeting on Friday.,Aciari nîmarorio magoka mucemanio wa cukuru mûthenya wa gatano,Education,
+41,He wants to study engineering at the university.,Arenda gûthomera injinia cukuru-ini wa yunivasîtî,Education,
+42,Learning your mother tongue keeps culture alive.,Gûthoma rûthiomi rwa maitû nîgûtûûragia ûndûire,Education,
+43,My grandmother still remembers all the old stories.,Cûcû witû noaririkanaga ng'ano cia tene,Family & Relationships,Alt: tûrûgano twa tene
+44,The eldest son is responsible for his younger siblings.,Kahîî karîa gakûrû nîko kamenyagîrîra twana tûria twao tûnini,Family & Relationships,Alt form for older contexts: kîhîî kîrîa gîkûrû
+45,We are gathering the whole family for Christmas this year.,Andû othe a mûciî nîtûracemania thigûkû ya kirithimathi mwaka ûyû,Family & Relationships,Alt: Bamîrî yothe
+46,My uncle lives in Nairobi and visits us during holidays.,Mama witû aikaraga Nairobi na nîokaga gûtûcerera hîndî ya thigûkûû,Family & Relationships,
+47,She got married last year and now has a beautiful baby.,Ahikire mwaka ûcio ûrathirire na rîu ena kaana gathaka,Family & Relationships,
+48,Children should respect their elders in all circumstances.,Ciana ciathîkagîre akûrû aao hîndî ciothe,Family & Relationships,Alt: mahinda mothe
+49,His father passed away when he was still very young.,Baba wao agîkua kaarî kamwana kanini muno,Family & Relationships,Alt: baba wao akuire ge kamwana kanini muno
+50,Our clan has lived on this land for many generations.,Mûhîrîga wiitu ûikarîte mûgûnda ini ûyû njiarwa nyingî mûno,Family & Relationships,
+51,The bride price was agreed upon by both families.,Rûracio nîrûretîkanîirio nî nyûmba/bamîrî cierî,Family & Relationships,
+52,We name our children after our grandparents as a tradition.,Twitaga ciana ciitû marîtwa ma maithe maitû o ta mûtugo,Family & Relationships,
+53,Send me the document on WhatsApp when you are done.,Ndûmîra iratathi rîu kûgerera WhatsApp warîkia.,Technology & Digital,Note: no direct Gikuyu word for 'document'; iratathi used
+54,My phone battery is dead and I need a charger.,Ihiga rîa thimû yakwa nîrîathira mwaki na nîngwenda chanja,Technology & Digital,Alt: canja
+55,I will call you back when I get network signal.,Nîngûkûhûrîra ndakinya handû he na netiwaki,Technology & Digital,
+56,You can pay using your mobile money account.,No ûrîhe ûkîhûthîra thimû/akauti ya thimû,Technology & Digital,
+57,The internet connection in this area is very poor.,Hinya wa mutambo wa intaneti wî thî mûno gûkû,Technology & Digital,
+58,Please enter your PIN number to confirm the transaction.,Hihinya amba yaku ya thiri wîtîkîrie marîhi,Technology & Digital,
+59,The television news starts at seven o'clock every evening.,Mohoro ma televisheni manjagîrîria thaa îmwe cia o hwainî,Technology & Digital,Alt: tv
+60,She learned how to use a computer at the youth centre.,Erutîire kûhûthîra mûtambo wa kompiuta harîa kambî-inî ya mbeû njîthî,Technology & Digital,
+61,Save your work regularly so you do not lose it.,Hingagîra wîra waku maita maingî niguo ndûkoore,Technology & Digital,
+62,Download the application on your phone to access the service.,Îkîra ihûthîro rîu thimûini yaku nîgetha waamûkîre ûtungata,Technology & Digital,
+63,Every citizen has the right to vote in a free election.,Mûikari o wothe ena rûtha rwa gûikia kura yake gîghuranoiini kîîna waaraganu,Government & Civic,
+64,The county government is building a new health centre in our ward.,Thirikari ya matûûra nî îraka thibitarî njerû itûûra-ini riitû,Government & Civic,
+65,You need a national identity card to access most government services.,Ûbatiî gûkorwo na gîbandî nîguo waamûkîre maûtungata ma thirikari,Government & Civic,Alt: kîbandî
+66,Report any corruption to the relevant authorities immediately.,Thitanga gîîko o gîothe kîa ungumania kûrîa cibatiî,Government & Civic,
+67,The law protects all citizens equally regardless of background.,Watho ûgitagîra aikari othe ûtegûthurania kûrîa mûndû aumîte,Government & Civic,
+68,Register your business to operate legally in this country.,Andîkithia biacara yaku nigetha ûhote kûmîtwara na mbere ûtekuna watho wa bûrûri,Government & Civic,
+69,Public water and electricity are managed by the government.,Maai na thitima cia mûingi ciroragwo ni thirikari,Government & Civic,
+70,The budget for this financial year has been approved by parliament.,Mbajeti ya mwaka ûyû nîyahîtûkio ni nyûmba ya icirîro/mbunge,Government & Civic,
+71,Mount Kenya is the highest mountain in Kenya.,Kîrîma gîa Kenya nîkîo kînene/kîraihu mûno thîinî wa Kenya,Environment & Nature,
+72,We must protect the forests to preserve our water sources.,Nomûhaka tûmenyerere mîtitû iitû nîguo tûgitîre njûûî ciitû,Environment & Nature,
+73,The dry season has been very long and the rivers are low.,Kîmera kîa riûa nî gîikarîte mûno na njûûî cikahûa,Environment & Nature,
+74,Cutting down trees causes flooding during the rainy season.,Gûtema mîtî nîgûtûmaga kûgîe na mwaraho wa kîguû hîndî ya mbura,Environment & Nature,
+75,The birds sing loudest just before sunrise in the morning.,Nyoni ciinaga cianîrîire riûa rîtanaratha rûciinî,Environment & Nature,
+76,We collect rainwater in tanks for use during dry periods.,Tûigaga maaî ma mbura matangi-inî nîguo tûmahûthîre hîndî ya riûa,Environment & Nature,
+77,The fig tree is considered sacred by our community.,Mûtî wa mûgumo nî mûtherû rûrîrî-inî ruitû,Environment & Nature,Alt: muthingu
+78,Climate change is making rainfall patterns unpredictable.,Gûcenjia kwa rîera nîgûtûmîte mbura yaage kwîhokeka,Environment & Nature,
+79,I am very happy because my results were excellent.,Ndî na gîkeno mûno tondû maûmîrîra makwa nî meega,Emotions & Mental States,
+80,She felt very sad when she heard the news.,Nîagîire ihooru aigua ûhoro ûcio,Emotions & Mental States,
+81,"Do not be afraid, everything will be alright.","Ndûgetigîre, maûndû nîmekwagîra",Emotions & Mental States,
+82,He was very angry when he found out what happened.,Nîarakarire mûno aigua ûrîa kwahanîkire,Emotions & Mental States,
+83,I feel proud of what my children have achieved.,Nîndîretîîra ciana ciakwa nîûndû wa marîa ciîhotanîire,Emotions & Mental States,
+84,She has been feeling lonely since she moved to the city.,Nîakoretwo na ihooru kuuma athamîre mûciî mûnene,Emotions & Mental States,
+85,We were surprised by how quickly the situation changed.,Nîtûragegirio nî ûrîa maûndû macenjetie,Emotions & Mental States,
+86,He is anxious about the test results coming out tomorrow.,Ena wagagu nîûndû wa maumîrîra marîa matanyîîtwo rûciû,Emotions & Mental States,
+87,"If it rains tonight, we will not go to the market tomorrow.","Mbura yaura ûmûthî ûtukû, tûtigathiî ndûnyû rûciû",Complex Syntax & Questions,Alt: kwaura
+88,Why did you not tell me about this problem earlier?,Waregete kûnjîra ûhoro wa thîna ûcio tene nîkî?,Complex Syntax & Questions,
+89,When will the bus from Nairobi arrive at the stage?,Mbathibya kuuma Nairobi îgûkinya thitînji thaa cigana?,Complex Syntax & Questions,
+90,"Although she was tired, she still finished all her work.","Ona gûkorwo ararî mûnogu, nîararîkirie wîra wake wothe",Complex Syntax & Questions,
+91,Which house did you grow up in as a child?,Wakûrîire kû ûnyinyi-inî waku?,Complex Syntax & Questions,
+92,Tell me what you need and I will try to help you.,Njîra kîrîa ûrabatara nîngûgûteithia,Complex Syntax & Questions,
+93,He said that he would come but he never arrived.,Augire nîegûka no ndakinyire,Complex Syntax & Questions,
+94,I do not understand why this problem keeps happening.,Ndiramenya nîkî gîtûmaga thîna ûyû ûgecokera,Complex Syntax & Questions,Alt: ûgacokacoka
+95,"Before you leave, make sure you have everything you need.",Ûtanauma haha rora kana wîna kîrîa gîothe ûbataire,Complex Syntax & Questions,
+96,How long have you been waiting here for the doctor?,Wetereire ndagîtarî haha kahinda kaigana atîa?,Complex Syntax & Questions,
+97,Neither the mother nor the father was at home that day.,Nyina kana ithe matiarî mûciî mûthenya ûcio.,Complex Syntax & Questions,Alt: Nyina na ithe gûtirî mûndû warî mûciî mûthenya ûcio.
+98,Who is the person responsible for managing this project?,Nûû ûranyabara wîra ûyû?,Complex Syntax & Questions,Note: no specific Gikuyu word for 'project'; alt: nûû ûrûgamîrîire
+99,"Even though it was difficult, she refused to give up.","Ona gûkorwo nî hararî haritû, nîararegire gûkua ngoro",Complex Syntax & Questions,Alt: ndanakua ngoro
+100,I wish I had known about this opportunity much earlier.,Narî korwo nîndîroî kaanya gaka hau gatene.,Complex Syntax & Questions,Alt: nîndîramenyete
